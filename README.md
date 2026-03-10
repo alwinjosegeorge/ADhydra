@@ -1,5 +1,4 @@
 # Water Flow App
-
 A modern web application built with Vite, React, and TypeScript.
 
 ## Getting Started
